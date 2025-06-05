@@ -1,0 +1,17 @@
+This is a sample text with a lot  duplicated   spaces or            tabs.
+This is a sample sample text. This is is a sample text text text. 
+This is a This is a This is a sample text. Some sentences are repeated. Some sentences are repeated.
+There is some email1@gmail.com, email2@gmail.com, and email3@yahoo.com.vn. 
+Some phone number is 123-456-7890, 555-666-7777, ...
+Some address is 12 Thanh Thai Street, District 10, HCMC.
+Another address is 34 ThanhThai St, D10, Ho Chi Minh City.
+Some texts are special such as "double quoted text" and 'single quoted text'. Some have mixed "It's all good!".
+Some proper names such as Alex Smith, or Mike Brown, or Jen K. Lee, or Andy P Tran.
+03/04/2025
+# Topic 1: News #
+  Something about NEWS ...
+# Topic 2: Tech #
+  Something about TECH ...
+04-04-2025
+Apr 04 2025
+April 04, 2025
