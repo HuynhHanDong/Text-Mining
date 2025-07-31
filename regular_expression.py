@@ -1,6 +1,6 @@
 import re
 
-with open("regex.txt", "r") as f:
+with open("dataset/regex.txt", "r") as f:
     text = f.read()
 
 # a. Remove repeated spaces or tabs

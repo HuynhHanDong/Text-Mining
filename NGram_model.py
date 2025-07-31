@@ -75,7 +75,7 @@ def generate_text(model, seed, length):
     return ' '.join(result)
 
 def main():
-    with open('ngram.txt', 'r') as file:
+    with open('dataset/ngram.txt', 'r') as file:
         text_data = file.read()
 
     processed_text = preprocess_text(text_data)
